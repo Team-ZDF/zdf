@@ -1,11 +1,13 @@
 # ZDF [zee-dee-eff]
 **noun**
+
 1. packaged markup language
-1. a badass replacement to PDF's hungry binary formatting
-1. a packaged HTML document
-1. that thing all the blogs are raving about
+2. a badass replacement to PDF's hungry binary formatting
+3. a packaged HTML document
+4. that thing all the blogs are raving about
 
 **verb**
+
 1. to enjoy document writing
 1. to become the next big thing
 
