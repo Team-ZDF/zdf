@@ -40,6 +40,11 @@ ZDF stands for zero document format. Zero what? Zero hassle. Zero cost. Zero lea
 }
 ```
 
+## Packaging
+To be zero hassle, the ZDF package specification must be simple to implement on any platform and in any programming language. ZDF utilizes common archiving and compression formats to meet these requirements. Packaging is as simple as archiving all of the files into a tar file, then compressing that file using gzip. All common programming languages and platforms have libraries and applications to package files this way. ZDF just builds on this format and uses a custom extension to designate the file's contents. As popularity grows, first and third-party libraries will be written to wrap these steps up, making the process even easier.
+
+See [Libraries](#libraries) and [Applications](#applications) for a list of tools and utilities for workign with ZDF documents.
+
 ## Security
 Security is an ever-growing topic. ZDF embraces that topic with the modern, but proven technology of public key cryptography.
 
@@ -50,3 +55,17 @@ Sometimes you just need to make sure your document hasn't been tampered with in 
 
 ### Private document
 Other times a document needs to be shared securely. Sign it with your recipient's public key. They should have a private key to decrypt it. Without the private key, your document is hunk of garbage data.
+
+# <a name="libraries"></a>Libraries
+* Node.js
+ * [node-zdf](https://github.com/ZDF-Group/node-zdf)
+   * First-party library for working with ZDF files in Node.js. Development is being done alongside specification finalization.
+
+# <a name="applications"></a>Applications
+* [Alchemist](https://github.com/ZDF-Group/alchemist)
+ * First-party cross platform application for packaging ZDF files. Development is being done alongside specification finalization.
+* [Artisan](https://github.com/ZDF-Group/artisan) **Coming Soon**
+ * First-party cross platform application for designing ZDF documents. Development has yet to begin. If you're looking to contribute, this would be a great place to help once the specification is closer to completion.
+
+# Contributing
+ZDF cannot be successful without the support of developers and users around the world. If you would like to join the ZDF group to help finalize the specification or assist in development of first-party tools, email [rtbenfield@gmail.com](mailto:rtbenfield@gmail.com). 
