@@ -58,15 +58,15 @@ Other times a document needs to be shared securely. Sign it with your recipient'
 
 # <a name="libraries"></a>Libraries
 * Node.js
- * [node-zdf](https://github.com/ZDF-Group/node-zdf)
+ * [node-zdf](https://github.com/Team-ZDF/node-zdf)
    * First-party library for working with ZDF files in Node.js. Development is being done alongside specification finalization.
 
 # <a name="applications"></a>Applications
-* [Aerialist](https://github.com/ZDF-Group/aerialist)
+* [Aerialist](https://github.com/Team-ZDF/aerialist)
  * First-party cross platform application for viewing ZDF files. Development is being done alongside specification finalization.
-* [Alchemist](https://github.com/ZDF-Group/alchemist)
+* [Alchemist](https://github.com/Team-ZDF/alchemist)
  * First-party cross platform application for packaging ZDF files. Development is being done alongside specification finalization.
-* [Artisan](https://github.com/ZDF-Group/artisan) **Coming Soon**
+* [Artisan](https://github.com/Team-ZDF/artisan) **Coming Soon**
  * First-party cross platform application for designing ZDF documents. Development has yet to begin. If you're looking to contribute, this would be a great place to help once the specification is closer to completion.
 
 # Contributing
