@@ -62,6 +62,8 @@ Other times a document needs to be shared securely. Sign it with your recipient'
    * First-party library for working with ZDF files in Node.js. Development is being done alongside specification finalization.
 
 # <a name="applications"></a>Applications
+* [Aerialist](https://github.com/ZDF-Group/aerialist)
+ * First-party cross platform application for viewing ZDF files. Development is being done alongside specification finalization.
 * [Alchemist](https://github.com/ZDF-Group/alchemist)
  * First-party cross platform application for packaging ZDF files. Development is being done alongside specification finalization.
 * [Artisan](https://github.com/ZDF-Group/artisan) **Coming Soon**
