@@ -68,4 +68,6 @@ Other times a document needs to be shared securely. Sign it with your recipient'
  * First-party cross platform application for designing ZDF documents. Development has yet to begin. If you're looking to contribute, this would be a great place to help once the specification is closer to completion.
 
 # Contributing
-ZDF cannot be successful without the support of developers and users around the world. If you would like to join the ZDF group to help finalize the specification or assist in development of first-party tools, email [rtbenfield@gmail.com](mailto:rtbenfield@gmail.com). 
+ZDF cannot be successful without the support of developers and users around the world. If you would like to join the ZDF group to help finalize the specification or assist in development of first-party tools, email [rtbenfield@gmail.com](mailto:rtbenfield@gmail.com). If you have suggestions or requests please open an issue on the specification Github page. If you'd just like to show your support for the project and encourage us to continue further on our mission to purge clunky, binary formats from existence, star and watch our Github pages.
+
+We want ZDF to be the document format of the open source community. If you support us on this front, please help us make it a success.
